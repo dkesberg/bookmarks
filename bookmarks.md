@@ -17,6 +17,8 @@
 
 ## Blogs
 
+### PHP/Laravel
+
 * [Taylor Otwell](http://taylorotwell.com/)
 * [Chris Fidao](http://fideloper.com/)
 * [cultt.com](http://culttt.com/)
@@ -27,6 +29,12 @@
 * [Dayle Rees](http://daylerees.com/)
 * [Dries Vints](http://driesvints.com/)
 * [Christoph Rumpel](http://christoph-rumpel.com/blog/)
+
+### General Webdev & Inspiration
+
+* [Addy Osmani](http://addyosmani.com/blog/) Javascript
+* [Mark Dotto/@mdo](http://markdotto.com/) Bootstrap, CSS
+* [Paul Irish](http://www.paulirish.com/) HTML, CSS
 
 ## Laracon
 
