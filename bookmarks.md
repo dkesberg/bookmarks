@@ -29,12 +29,16 @@
 * [Dayle Rees](http://daylerees.com/)
 * [Dries Vints](http://driesvints.com/)
 * [Christoph Rumpel](http://christoph-rumpel.com/blog/)
+* [Sandeep.C.R.](http://imakesnowflakes.com/)
 
 ### General Webdev & Inspiration
 
 * [Addy Osmani](http://addyosmani.com/blog/) Javascript
 * [Mark Dotto/@mdo](http://markdotto.com/) Bootstrap, CSS
 * [Paul Irish](http://www.paulirish.com/) HTML, CSS
+
+### Security
+* [Sucuri Blog](http://blog.sucuri.net/) PHP Backdoors & Exploits, Malware
 
 ## Laracon
 
@@ -53,3 +57,22 @@
 * [rove.io](http://rove.io/)
 * [protobox](http://getprotobox.com/)
 * [Web VM Generator](http://vmg.slynett.com/)
+
+
+## Javascript
+
+### Vectormaps
+
+* [jVectorMap](http://jvectormap.com/)
+    * [SVG to jVectorMap Converter](http://svgto.jvectormap.com/)
+* [JQVMap](http://jqvmap.com/)
+
+## Tools
+
+* [Inkscape](http://www.inkscape.org/de/)
+* [SVG Edit](https://code.google.com/p/svg-edit/)
+
+### Editors
+
+* [Brackets](http://brackets.io/)
+* [Atom](https://atom.io/)
